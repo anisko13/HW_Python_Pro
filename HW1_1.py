@@ -14,4 +14,6 @@ class Product:
 product1 = Product(5, 'fluffy', 6)
 product2 = Product(4, 'strict', 7)
 
-print(product1,'\n', product2)
+
+if __name__ == '__main__':
+    print(product1,'\n', product2)

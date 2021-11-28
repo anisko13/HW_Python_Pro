@@ -16,4 +16,5 @@ class Order:
         return f'Заказ - {self.buyer.first_name}'
 
 order = Order([product1, product2], buyer1)
-print(order)
+if __name__ == '__main__':
+    print(order)

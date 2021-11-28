@@ -13,4 +13,5 @@ class Buyer:
 buyer1 = Buyer('Anna', 'Prokopchuk', 'Viktorovna', '000 000 00 00')
 buyer2 = Buyer('Youjin', 'Prokopchuk', 'Pavlovich', '000 000 00 00')
 
-print(buyer1,'\n', buyer2)
+if __name__ == '__main__':
+    print(buyer1,'\n', buyer2)
