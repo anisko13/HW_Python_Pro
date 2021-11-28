@@ -1,7 +1,7 @@
 from typing import Iterable
 
-from HW_Python_Pro.HW1_1 import Product, product1, product2
-from HW_Python_Pro.HW1_2 import Buyer, buyer1
+from HW1_1 import Product, product1, product2
+from HW1_2 import Buyer, buyer1
 
 
 class Order:
