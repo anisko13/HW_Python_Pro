@@ -5,7 +5,6 @@ from HW1_2 import Buyer, buyer1
 
 
 class Order:
-
     products = []
     buyer = None
 
